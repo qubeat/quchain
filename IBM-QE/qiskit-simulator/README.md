@@ -1,3 +1,4 @@
 # quchain
-State distribution in qubit chain
+## State distribution in qubit chain
+
 (Submitted to IBM QX Contest)
