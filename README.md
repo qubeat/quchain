@@ -1,4 +1,5 @@
 # quchain
 Qubit chain models
 
-IBM-QE\qiskit-simulator - outdated version of qiskit [submission](https://github.com/qubeat/qiskit-tutorials/tree/master/community/awards/teach_me_qiskit_2018/state_distribution_in_qubit_chains)
+[IBM-QE\qiskit-simulator](https://github.com/qubeat/quchain/tree/master/IBM-QE/qiskit-simulator)
+ - outdated version of qiskit [submission](https://github.com/qubeat/qiskit-tutorials/tree/master/community/awards/teach_me_qiskit_2018/state_distribution_in_qubit_chains)
