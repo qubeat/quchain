@@ -1,5 +1,5 @@
-# quchain
-Qubit chain models
+# Qubit chain models
+## quchain
 
 [IBM-QE\qiskit-simulator](https://github.com/qubeat/quchain/tree/master/IBM-QE/qiskit-simulator) - outdated version 
 of submission to IBM Qiskit contest. 
