@@ -1,7 +1,7 @@
 # quchain
 Qubit chain models
 
-[docs](https://github.com/qubeat/quchain/tree/docs/) - folder for [GitHub Pages](https://qubeat.github.io/quchain/).
+[docs](https://github.com/qubeat/quchain/tree/master/docs/) - folder for [GitHub Pages](https://qubeat.github.io/quchain/).
 
 [IBM-QE\qiskit-simulator](https://github.com/qubeat/quchain/tree/master/IBM-QE/qiskit-simulator) - outdated version 
 of submission to IBM Qiskit contest. 
