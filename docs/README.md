@@ -1,4 +1,4 @@
-# Quchain
+# Qu-chain
 
 ## State distribution in quantum chain with Qiskit
 
