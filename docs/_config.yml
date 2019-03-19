@@ -1,5 +1,5 @@
 title: Qubit chains
-logo: /docs/img/qubit-chain-logo.png
+logo: img/qubit-chain-logo.png
 description: Models of quantum networks with chain of qubits
 show_downloads: false
 theme: jekyll-theme-minimal
