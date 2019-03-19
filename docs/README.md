@@ -1,4 +1,4 @@
-## State distribution in qubit chain with Qiskit
+# State distribution in qubit chain with Qiskit
 
 - Local version of submission to IBM Qiskit contest. 
   [Working-draft](https://github.com/qubeat/quchain/tree/master/IBM-QE/qiskit-simulator)
