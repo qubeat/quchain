@@ -1,5 +1,3 @@
-# Qubit chain models
-
 ## State distribution in qubit chain with Qiskit
 
 - Local version of submission to IBM Qiskit contest. 
