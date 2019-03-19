@@ -1,4 +1,4 @@
-![qubit chain](img/quchain_logo.png)
+# qubeat/quchain
 
 ## State distribution in qubit chains with Qiskit
 
