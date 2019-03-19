@@ -1,6 +1,6 @@
-# Qu-chain
+# qubeat/quchain
 
-## State distribution in quantum chain with Qiskit
+## State distribution in qubit chains with Qiskit
 
 - Local version of submission to IBM Qiskit contest. 
   [Working-draft](https://github.com/qubeat/quchain/tree/master/IBM-QE/qiskit-simulator)
